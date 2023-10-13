@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet ali</h1>
 <h3 align="center">I'm web developer learner</h3>
 
-- 🔭 I’m currently working on **Netflix-Clone**
+
 
 - 🌱 I’m currently learning **JacaScript**
 
