@@ -3,11 +3,8 @@
 
 
 
-- 🌱 I’m currently learning **JacaScript**
+- 🌱 I’m currently learning **Next.js**
 
-- 👯 I’m looking to collaborate on [w3schools spaces](https://yzkn.w3spaces.com/)
-
-- 🤝 I’m looking for help with [ateste pisenler](https://www.atestepisenler.com/)
 
 - 📫 How to reach me **mehmetali.1992@hotmail.com**
 
