@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehmet ali</h1>
-<h3 align="center">I'm web developer learner</h3>
+<h3 align="center">I'm web developer</h3>
 
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React and Next.js**
 
 
 - 📫 How to reach me **mehmetali.1992@hotmail.com**
